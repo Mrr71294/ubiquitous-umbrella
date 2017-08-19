@@ -1,0 +1,11 @@
+#myCanvas {
+    position:fixed;
+    left:0;
+    top:0;
+    width:1500px;
+    height:1500px;
+    background:url(img/space.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+
+}
